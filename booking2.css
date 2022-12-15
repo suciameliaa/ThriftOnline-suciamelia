@@ -1,0 +1,97 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.navbg{
+    background-color: #C77890;
+    height: 1200px;
+}
+
+.navtext{
+    font-size: 40px;
+    text-align: center;
+}
+
+.ellips1{
+    position: absolute;
+    width: 89px;
+    height: 83px;
+    left: 450px;
+    top: 169px;
+    background: #E39CA1;
+    border-radius: 50%;
+}
+.ellips2{
+    position: absolute;
+    width: 89px;
+    height: 83px;
+    left: 580px;
+    top: 169px;
+    background: #E39CA1;
+    border-radius: 50%;
+}
+.ellips3{
+    position: absolute;
+    width: 89px;
+    height: 83px;
+    left: 700px;
+    top: 169px;
+    background: #E39CA1;
+    border-radius: 50%;
+}
+
+.ellips1 img{
+    position: absolute;
+    width: 56.17px;
+    height: 40px;
+    left: 20px;
+    top: 20px;
+}
+
+.ellips2 img{
+    position: absolute;
+    width: 56.17px;
+    height: 40px;
+    left: 20px;
+    top: 20px;
+}
+
+
+.navimg img{
+    position: absolute;
+    width: 412px;
+    height: 420px;
+    left: 170px;
+    top: 392px;
+}
+
+.table{
+    position: absolute;
+    width: 260px;
+    height: 200px;
+    left: 900px;
+    top: 500px;
+    background-color: rgb(182, 171, 171);
+    border-radius: 3%;
+}
+
+.button{
+    position: absolute;
+    width: 584px;
+    height: 92px;
+    left: 434px;
+    top: 921px;
+}
+
+button{
+    width: 50%;
+    height: 50%;
+}
+.button1{
+    position: absolute;
+    width: 584px;
+    height: 92px;
+    left: 434px;
+    top: 1000px;
+}

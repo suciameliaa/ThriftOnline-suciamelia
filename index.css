@@ -1,0 +1,219 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+
+.bgnav{
+    position: relative;
+    width: 1440px;
+    height: 928px;
+    background: rgba(208, 154, 200, 0.82);
+}
+
+P{
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    left: 50px;
+}
+
+.navbar{
+    position: absolute;
+    width: 864px;
+    height: 40px;
+    left: 750px;
+    top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    word-spacing: 2cm;
+}
+
+.navimg img{
+    position: absolute;
+    width: 656px;
+    height: 374px;
+    left: 340px;
+    top: 277px;
+    border-radius: 2%;
+}
+
+.bgmain{
+    position: absolute;
+    width: 1440px;
+    height: 808px;
+    background: #E485B3;
+}
+
+.ellips{
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    background: #D9D9D9;
+    bottom: 25%;
+    border-radius: 3%;
+    left: 50%;
+    
+}
+
+table{
+    margin-top: 30%;
+    margin-left: 20%;
+}
+
+.booking{
+    left: 30%;
+    font-weight: bold;
+}
+
+.textmain1{
+    margin-top: 18%;
+}
+
+.bgfooter1{
+    position: absolute;
+    width: 1445px;
+    height: 400px;
+    background: #FAE0E6;
+    bottom: -200%;
+}
+
+.dp{
+    position: absolute;
+    width: 214px;
+    height: 44px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+.detailimg0{
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    top: 100px;
+    left: 200px;
+    border-radius: 3%;
+}
+.detailimg1{
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    top: 100px;
+    left: 530px;
+    border-radius: 3%;
+}
+.detailimg2{
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    top: 100px;
+    left: 900px;
+    border-radius: 3%;
+}
+
+.img0{
+    position: absolute;
+    width: 197px;
+    height: 44px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 44px;
+    color: #000000;
+    left: 17%;
+    bottom: -4.5%;
+}
+
+.img1{
+    position: absolute;
+    width: 197px;
+    height: 44px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 44px;
+    color: #000000;
+    left: 40%;
+    bottom: -4.5%;
+}
+
+.img2{
+    position: absolute;
+    width: 197px;
+    height: 44px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 44px;
+    color: #000000;
+    left: 66%;
+    bottom: -4.5%;
+}
+
+.bgfooter2{
+    position: absolute;
+    width: 1440px;
+    height: 331px;
+    background: #E39CC7;
+    bottom: -246%;
+}
+
+.icon1{
+    position: absolute;
+    width: 62px;
+    height: 50px;
+    bottom: 75%;
+    left: 40px;
+}
+.icon2{
+    position: absolute;
+    width: 55px;
+    height: -80px;
+    bottom: 73%;
+    left: 100px;
+}
+.icon3{
+    position: absolute;
+    width: 62px;
+    height: -100px;
+    bottom: 74%;
+    left: 165px;
+}
+
+.endfooter{
+    position: absolute;
+    width: 172px;
+    height: 48px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    right: 17%;
+    top: 30%;
+}
+
+.footer{
+    width: 1442px;
+    height: 71px;
+    background: #A01360;
+    position: relative;
+    top: 270px;
+    
+}
